@@ -1,0 +1,15 @@
+
+mlflow
+transformers==5.20.2
+torch
+accelerate
+datasets
+evaluate
+jiwer
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+soundfile
+librosa

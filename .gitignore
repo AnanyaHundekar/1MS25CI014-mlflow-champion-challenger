@@ -218,3 +218,20 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# PROJECT-SPECIFIC IGNORE RULES
+
+# Virtual environments
+.venv/
+.venv-*/
+venv/
+venv-*/
+
+# MLflow database
+mlflow.db
+mlflow.db-shm
+mlflow.db-wal
+
+# MLflow artifacts
+mlruns/
+mlartifacts/
